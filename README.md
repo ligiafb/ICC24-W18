@@ -1,2 +1,1 @@
-# ICC24-W18
-Multifaceted DDoS Attack Prediction by Multivariate Time Series and Ordinal Patterns
+# icc-2024-data
